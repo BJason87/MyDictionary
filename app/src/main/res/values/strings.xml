@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyDictionary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="bahasa_english">Bahasa - English</string>
+    <string name="english_bahasa">English - Bahasa</string>
+    <string name="loading">Loading Data...</string>
+    <string name="app_first_run">First Run</string>
+    <string name="kata">KATA</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="text_keterangan">KETERANGAN</string>
+    <string name="searching">Searching:</string>
+    <string name="cari">Cari</string>
+</resources>
